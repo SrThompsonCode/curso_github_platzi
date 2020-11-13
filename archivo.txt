@@ -1,4 +1,4 @@
 first file curso profresional de git y github
 changes in archivo.txt
 
-Mañana nos enfocaremos en su vida laboral
+Mañana nos enfocaremos en su vida laboralsadasd
