@@ -1,6 +1,17 @@
 body {
+  padding: 1em;
   text-align: center;
   font-family: monospace;
   color: gainsboro;
+  align-items: center;
+  font-size: 16px;
   background-color: midnightblue;
+}
+
+.container {
+  width: 70%;
+  padding: 1em;
+  border: 1px solid gainsboro;
+  margin: 0 auto;
+  height: calc(100vh - 85px);
 }
