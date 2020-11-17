@@ -5,13 +5,14 @@ body {
   color: gainsboro;
   align-items: center;
   font-size: 16px;
-  background-color: midnightblue;
+  background-color: rgb(29, 29, 29);
 }
 
 .container {
   width: 70%;
   border: 1px solid gainsboro;
   margin: 0 auto;
+  background-color: midnightblue;
 
   height: calc(100vh - 85px);
 }
@@ -28,6 +29,10 @@ body {
   box-shadow: 0px 3px 0px 0px rgba(0, 0, 0, 0.75);
 }
 
+.cabecera_logo {
+  width: 30px;
+  vertical-align: middle;
+}
 .cabecera span {
   margin-left: 1em;
   font-weight: normal;
