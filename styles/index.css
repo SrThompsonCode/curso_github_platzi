@@ -13,7 +13,7 @@ body {
   border: 1px solid gainsboro;
   margin: 0 auto;
   position: relative;
-
+  background-color: midnightblue;
   height: calc(100vh - 85px);
 }
 
