@@ -2,6 +2,9 @@ first file curso profresional de git y github
 changes in archivo.txt
 
 Experimento 1
+
+Experimento 2
+
 Master 1
 
 Master 2
